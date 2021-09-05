@@ -3,5 +3,5 @@
 using namespace std;
 
 int main(){
-    cout<<"Hello world\n";
+    cout<<"My new rating\n";
 }
